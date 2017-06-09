@@ -2,7 +2,7 @@
 
 Content
 
-[Basket](#basket) (see [technical notes](/technical_notes.md#basket))
+[Basket](#basket)
 
 [Some Text][]
 
@@ -42,7 +42,7 @@ then the specified login should be a guest login. It means that
 In such case authorization token is generated.
 Otherwise, the corresponding exception is thrown.
 
-### Basket
+### Basket (see [technical notes](/technical_notes.md#basket))
 
 #### Click&Collect products
 
