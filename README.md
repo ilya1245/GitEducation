@@ -2,7 +2,7 @@
 
 Content
 
-[Basket](#basket)  see [technical notes](/technical notes.md#basket) 
+[Basket](#basket)  see [technical notes](/technical_notes.md#basket) 
 
 [Some Text][]
 
