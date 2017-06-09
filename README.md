@@ -2,7 +2,11 @@
 
 Content
 
-Basket
+[Basket](#basket)
+
+[Some Text][]
+
+[Link to Header](#the-header)
 
 Checkout
 
@@ -89,7 +93,10 @@ The +2 days functionality can be switched off(+1 day will used instead) by setti
 
 Note: Looks strange that this functionality allows obtaining **CCNextDay** product even earlier then **CCSameDay** one because TrainingReadyStore doesn't affect **CCNextDay**.
 
+### Some Text ###
 
+
+## The Header
 
 
 
