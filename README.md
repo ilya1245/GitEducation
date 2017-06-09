@@ -2,7 +2,7 @@
 
 Content
 
-[Basket](#basket)
+[Basket](#basket-see-technical-notes)
 
 [Some Text][]
 
